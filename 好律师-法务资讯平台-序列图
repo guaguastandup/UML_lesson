@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T02:52:14.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="802W3Ua4sdNl7VDvlNDl" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T02:52:29.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="nngwJHuxxaN3rOyv5kbI" version="14.1.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="444" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="k2i48AaEWhs89tVsRFu5-14" value="资格审核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="150" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="k2i48AaEWhs89tVsRFu5-16" value="审核通过" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="k2i48AaEWhs89tVsRFu5-16" value="发放权限" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry x="-0.0087" relative="1" as="geometry">
             <mxPoint x="374" y="220" as="targetPoint" />
             <mxPoint x="604" y="220" as="sourcePoint" />
