@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T01:28:16.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="5hfKHLEFHdLyew1ABhpf" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T01:29:15.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="1tZKqae8lAMhAcMnVh7v" version="14.1.1" type="github">
   <diagram id="g4LfOGGEkeUOCid__af8" name="Page-1">
     <mxGraphModel dx="853" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="150" y="40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SL-vshSyYehghLagZwHi-5" value="描述问题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="70" height="30" as="geometry" />
+          <mxGeometry x="250" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SL-vshSyYehghLagZwHi-6" value="登陆" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="270" width="70" height="30" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="450" y="10" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SL-vshSyYehghLagZwHi-11" value="发起咨询" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="270" width="70" height="30" as="geometry" />
+          <mxGeometry x="379" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SL-vshSyYehghLagZwHi-43" value="&amp;lt;extend&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -145,16 +145,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SL-vshSyYehghLagZwHi-78" value="选择律师" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="270" width="70" height="30" as="geometry" />
+          <mxGeometry x="140" y="270" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SL-vshSyYehghLagZwHi-79" value="管理用户信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="150" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SL-vshSyYehghLagZwHi-80" value="自主挑选律师" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="390" width="70" height="30" as="geometry" />
+          <mxGeometry x="90" y="390" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SL-vshSyYehghLagZwHi-82" value="接受系统推荐律师" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="390" width="70" height="30" as="geometry" />
+          <mxGeometry x="190" y="390" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SL-vshSyYehghLagZwHi-84" value="" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SL-vshSyYehghLagZwHi-78" target="SL-vshSyYehghLagZwHi-82">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -216,6 +216,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="160" as="sourcePoint" />
             <mxPoint x="560" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL-vshSyYehghLagZwHi-101" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SL-vshSyYehghLagZwHi-6" target="SL-vshSyYehghLagZwHi-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="sourcePoint" />
+            <mxPoint x="440.0000000000059" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SL-vshSyYehghLagZwHi-102" value="" style="endArrow=none;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="300" as="sourcePoint" />
+            <mxPoint x="580.0000000000059" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
