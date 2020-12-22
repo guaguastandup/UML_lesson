@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T01:51:27.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="mjLvsxEtNTBsaYBZ96BW" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T01:53:30.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="gBtBjUAfYWo3Sk0rhEbE" version="14.1.1" type="github">
   <diagram id="g4LfOGGEkeUOCid__af8" name="Page-1">
     <mxGraphModel dx="1558" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="SL-vshSyYehghLagZwHi-135" value="好律师-法务资讯平台V1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="500" y="572" width="130" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SL-vshSyYehghLagZwHi-136" value="律师通过审核后可提供咨询" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="10" width="146" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
