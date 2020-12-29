@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T01:57:24.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="18081dEu3yBNbUthyloQ" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T01:59:49.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="YUpxVRiv0xAPWWdB2bdd" version="14.1.3" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="833" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="833" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
             <mxPoint x="891" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LDmJi0FlFyZIYwn325K0-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LDmJi0FlFyZIYwn325K0-30" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%AE%8C%E6%88%90%5B%E7%94%A8%E6%88%B7%E6%94%AF%E4%BB%98%E5%AE%8C%E6%88%90%5D%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3BexitX%3D0.5%3BexitY%3D1%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0.5%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%221113%22%20y%3D%22500%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%221113%22%20y%3D%22580%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="708" y="380" width="470" height="280" as="geometry" />
         </mxCell>
         <mxCell id="LDmJi0FlFyZIYwn325K0-31" value="初始状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -221,9 +221,7 @@
           <mxGeometry x="0.0168" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="818" y="590" as="sourcePoint" />
             <mxPoint x="978" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="980" y="450" />
-            </Array>
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -242,19 +240,17 @@
         <mxCell id="LDmJi0FlFyZIYwn325K0-40" value="订单类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="716" y="385" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LDmJi0FlFyZIYwn325K0-41" value="取消[订单生成失败]" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LDmJi0FlFyZIYwn325K0-31">
+        <mxCell id="LDmJi0FlFyZIYwn325K0-41" value="取消[订单生成失败]" style="endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDmJi0FlFyZIYwn325K0-37" target="LDmJi0FlFyZIYwn325K0-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1068" y="480" as="sourcePoint" />
             <mxPoint x="1078" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LDmJi0FlFyZIYwn325K0-42" value="发送订单[订单生成成功]" style="endArrow=classic;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDmJi0FlFyZIYwn325K0-37" target="LDmJi0FlFyZIYwn325K0-31">
+        <mxCell id="LDmJi0FlFyZIYwn325K0-42" value="完成[用户支付完成]" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDmJi0FlFyZIYwn325K0-37" target="LDmJi0FlFyZIYwn325K0-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="968" y="620" as="sourcePoint" />
             <mxPoint x="1113" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="980" y="510" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LDmJi0FlFyZIYwn325K0-45" value="咨询开始" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDmJi0FlFyZIYwn325K0-16" target="LDmJi0FlFyZIYwn325K0-46">
@@ -274,6 +270,15 @@
               <mxPoint x="1030" y="190" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmJi0FlFyZIYwn325K0-50" value="订单完毕状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="580" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmJi0FlFyZIYwn325K0-51" value="发送订单信息" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDmJi0FlFyZIYwn325K0-50" target="LDmJi0FlFyZIYwn325K0-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1078" y="500" as="sourcePoint" />
+            <mxPoint x="899" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
