@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T01:49:26.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="2CtU6GmG92dqTLiY8S9l" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T01:57:24.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="18081dEu3yBNbUthyloQ" version="14.1.3" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="833" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -181,14 +181,14 @@
             <mxPoint x="1070" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LDmJi0FlFyZIYwn325K0-26" value="咨询结束" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDmJi0FlFyZIYwn325K0-16" target="LDmJi0FlFyZIYwn325K0-27">
+        <mxCell id="LDmJi0FlFyZIYwn325K0-26" value="咨询结束" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDmJi0FlFyZIYwn325K0-46" target="LDmJi0FlFyZIYwn325K0-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="960" y="260" as="sourcePoint" />
             <mxPoint x="1010" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LDmJi0FlFyZIYwn325K0-27" value="生成订单状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="230" width="90" height="40" as="geometry" />
+          <mxGeometry x="1060" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LDmJi0FlFyZIYwn325K0-28" value="返回订单信息" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDmJi0FlFyZIYwn325K0-27" target="LDmJi0FlFyZIYwn325K0-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -255,6 +255,25 @@
             <Array as="points">
               <mxPoint x="980" y="510" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmJi0FlFyZIYwn325K0-45" value="咨询开始" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LDmJi0FlFyZIYwn325K0-16" target="LDmJi0FlFyZIYwn325K0-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1115" y="150" as="sourcePoint" />
+            <mxPoint x="1115" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDmJi0FlFyZIYwn325K0-46" value="咨询状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LDmJi0FlFyZIYwn325K0-47" value="消息传递" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="LDmJi0FlFyZIYwn325K0-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="160" as="sourcePoint" />
+            <mxPoint x="1060" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="190" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
