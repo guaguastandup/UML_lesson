@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T08:37:32.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="VnKdKz6A7qbNta3jHtDA" version="14.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-05T08:38:48.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="g_X1jbvd7O5CDdC6Hnul" version="14.1.4" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2688" dy="2605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1792" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,6 +55,17 @@
         <mxCell id="k2i48AaEWhs89tVsRFu5-59" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="k2i48AaEWhs89tVsRFu5-50" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="1350" as="geometry" />
         </mxCell>
+        <mxCell id="b09JnEJ9J5-IMoLjQWaS-12" value="返回订单" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="k2i48AaEWhs89tVsRFu5-50" edge="1">
+          <mxGeometry x="-0.0087" relative="1" as="geometry">
+            <mxPoint x="50" y="1140" as="targetPoint" />
+            <mxPoint x="-338" y="1140.3" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-390" y="1140" />
+              <mxPoint x="-337.6" y="1140" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k2i48AaEWhs89tVsRFu5-60" value="创建咨询" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.073;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.004;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="k2i48AaEWhs89tVsRFu5-59" target="3nuBFxr9cyL0pnOWT2aG-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1050" y="41" as="sourcePoint" />
@@ -83,7 +94,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b09JnEJ9J5-IMoLjQWaS-1" value="账单" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="b09JnEJ9J5-IMoLjQWaS-1" value="订单" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="840" width="100" height="295" as="geometry" />
         </mxCell>
         <mxCell id="b09JnEJ9J5-IMoLjQWaS-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="b09JnEJ9J5-IMoLjQWaS-1" vertex="1">
@@ -99,7 +110,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b09JnEJ9J5-IMoLjQWaS-9" value="创建账单" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" edge="1" source="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="b09JnEJ9J5-IMoLjQWaS-9" value="创建订单" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;" parent="1" edge="1" source="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910" y="950" as="sourcePoint" />
             <mxPoint x="800" y="938" as="targetPoint" />
@@ -107,21 +118,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b09JnEJ9J5-IMoLjQWaS-10" value="返回订单" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="1" edge="1">
+        <mxCell id="b09JnEJ9J5-IMoLjQWaS-10" value="返回订单" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.564;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="b09JnEJ9J5-IMoLjQWaS-1">
           <mxGeometry x="-0.0087" relative="1" as="geometry">
-            <mxPoint x="570" y="520" as="targetPoint" />
+            <mxPoint x="900" y="988" as="targetPoint" />
             <mxPoint x="540" y="440" as="sourcePoint" />
             <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b09JnEJ9J5-IMoLjQWaS-12" value="返回订单" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="1" edge="1">
-          <mxGeometry x="-0.0087" relative="1" as="geometry">
-            <mxPoint x="518" y="986.55" as="targetPoint" />
-            <mxPoint x="30" y="986.55" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="30.399999999999977" y="986.25" />
-            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -176,10 +177,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlYcjBnoU1A6uBopFc5--16" value="发送用户消息" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.106;exitY=0.281;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.52;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZlYcjBnoU1A6uBopFc5--2" target="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="ZlYcjBnoU1A6uBopFc5--16" value="发送用户消息" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.52;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry x="0.3172" y="-10" relative="1" as="geometry">
             <mxPoint x="716" y="380" as="targetPoint" />
-            <mxPoint x="1010" y="340" as="sourcePoint" />
+            <mxPoint x="1035" y="437" as="sourcePoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
