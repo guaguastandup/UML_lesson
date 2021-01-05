@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T08:38:48.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="g_X1jbvd7O5CDdC6Hnul" version="14.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-05T08:40:08.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="BHy3MgJbyUlrOUEFgocl" version="14.1.4" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1792" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1265" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,9 +177,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlYcjBnoU1A6uBopFc5--16" value="发送用户消息" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.52;entryY=0.37;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="ZlYcjBnoU1A6uBopFc5--16" value="发送用户消息" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry x="0.3172" y="-10" relative="1" as="geometry">
-            <mxPoint x="716" y="380" as="targetPoint" />
+            <mxPoint x="722" y="437" as="targetPoint" />
             <mxPoint x="1035" y="437" as="sourcePoint" />
             <Array as="points" />
             <mxPoint as="offset" />
@@ -205,6 +205,22 @@
         </mxCell>
         <mxCell id="ZlYcjBnoU1A6uBopFc5--28" value="[律师发送消息]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="580" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZlYcjBnoU1A6uBopFc5--32" value="创建律师消息" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.521;exitY=0.483;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.484;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-1" target="ZlYcjBnoU1A6uBopFc5--1">
+          <mxGeometry x="-0.381" relative="1" as="geometry">
+            <mxPoint x="1100" y="604.17" as="sourcePoint" />
+            <mxPoint x="800" y="604.17" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZlYcjBnoU1A6uBopFc5--33" value="发送律师消息" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;entryX=0.458;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.85;exitY=0.728;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZlYcjBnoU1A6uBopFc5--2" target="k2i48AaEWhs89tVsRFu5-50">
+          <mxGeometry x="0.0142" relative="1" as="geometry">
+            <mxPoint x="950" y="624.17" as="targetPoint" />
+            <mxPoint x="1040" y="620" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
