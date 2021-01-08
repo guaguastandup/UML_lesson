@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T14:13:56.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="9IRkwifh_w8_fBdQic-s" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-08T14:14:04.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="SA-hu-GvKXqvIfI9XOeB" version="14.1.8" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="664" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -247,7 +247,7 @@
         <mxCell id="LDmJi0FlFyZIYwn325K0-46" value="咨询状态" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="230" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LDmJi0FlFyZIYwn325K0-50" value="账单完成" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LDmJi0FlFyZIYwn325K0-50" value="账单生成完毕" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1068" y="580" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LDmJi0FlFyZIYwn325K0-51" value="发送订单信息" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LDmJi0FlFyZIYwn325K0-50" target="LDmJi0FlFyZIYwn325K0-31" edge="1">
