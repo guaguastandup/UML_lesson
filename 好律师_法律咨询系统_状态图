@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T14:13:03.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="2GXpbzdz9LoTSpPS91So" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-08T14:13:43.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="tYrpvLsjDlEF_aFs2qdv" version="14.1.8" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="664" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
         <mxCell id="LDmJi0FlFyZIYwn325K0-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="20" width="470" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="LDmJi0FlFyZIYwn325K0-10" value="准备接受咨询状态" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LDmJi0FlFyZIYwn325K0-10" value="等待咨询创建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="791" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LDmJi0FlFyZIYwn325K0-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/record-round-circle-dot-128.png" parent="1" vertex="1">
@@ -184,7 +184,7 @@
         <mxCell id="LDmJi0FlFyZIYwn325K0-30" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%AE%8C%E6%88%90%5B%E7%94%A8%E6%88%B7%E6%94%AF%E4%BB%98%E5%AE%8C%E6%88%90%5D%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3BexitX%3D0.5%3BexitY%3D1%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0.5%3BentryY%3D0%3BentryDx%3D0%3BentryDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%221113%22%20y%3D%22500%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%221113%22%20y%3D%22580%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="708" y="380" width="470" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="LDmJi0FlFyZIYwn325K0-31" value="准备接受订单状态" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LDmJi0FlFyZIYwn325K0-31" value="等待账单创建" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="799" y="460" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LDmJi0FlFyZIYwn325K0-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/record-round-circle-dot-128.png" parent="1" vertex="1">
@@ -210,7 +210,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LDmJi0FlFyZIYwn325K0-37" value="生成订单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LDmJi0FlFyZIYwn325K0-37" value="生成账单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1068" y="460" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LDmJi0FlFyZIYwn325K0-38" value="结束" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LDmJi0FlFyZIYwn325K0-31" target="LDmJi0FlFyZIYwn325K0-33" edge="1">
@@ -222,7 +222,7 @@
         <mxCell id="LDmJi0FlFyZIYwn325K0-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="708" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LDmJi0FlFyZIYwn325K0-40" value="订单类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="LDmJi0FlFyZIYwn325K0-40" value="账单类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="716" y="385" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LDmJi0FlFyZIYwn325K0-41" value="取消[订单生成失败]" style="endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="LDmJi0FlFyZIYwn325K0-37" target="LDmJi0FlFyZIYwn325K0-31" edge="1">
