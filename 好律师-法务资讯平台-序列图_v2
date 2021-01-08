@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T14:04:04.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="qfKd-zntldBdq2cdc2ly" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-08T14:04:10.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="YFxFNb6vfwBGPj74diVD" version="14.1.8" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="990" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b09JnEJ9J5-IMoLjQWaS-1" value="账单" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="840" width="100" height="430" as="geometry" />
+          <mxGeometry x="730" y="840" width="100" height="430" as="geometry" />
         </mxCell>
         <mxCell id="b09JnEJ9J5-IMoLjQWaS-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="b09JnEJ9J5-IMoLjQWaS-1" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="120" as="geometry" />
