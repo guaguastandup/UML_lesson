@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T14:00:20.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="SpdiES9vpZHMWJeZ8_B1" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-08T14:00:33.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="5ki6eGBTE-MpRVP7Qgjl" version="14.1.8" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="478" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlYcjBnoU1A6uBopFc5--16" value="用户消息" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.435;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="ZlYcjBnoU1A6uBopFc5--1">
+        <mxCell id="ZlYcjBnoU1A6uBopFc5--16" value="发送用户消息" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.435;exitY=0.367;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="ZlYcjBnoU1A6uBopFc5--1">
           <mxGeometry x="0.3172" y="-10" relative="1" as="geometry">
             <mxPoint x="724" y="476" as="targetPoint" />
             <mxPoint x="1035" y="437" as="sourcePoint" />
