@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T14:02:50.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="OfDNMS9jX5ruLx89YXdF" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-08T14:03:42.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="HNH63cxACVp1FwTMPv4A" version="14.1.8" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="990" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="396" dy="1449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="咨询" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="830" y="-45" width="100" height="1395" as="geometry" />
+          <mxGeometry x="790" y="-45" width="100" height="1395" as="geometry" />
         </mxCell>
         <mxCell id="k2i48AaEWhs89tVsRFu5-62" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="1170" as="geometry" />
@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k2i48AaEWhs89tVsRFu5-50" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1175" y="-100" width="100" height="1520" as="geometry" />
+          <mxGeometry x="1120" y="-100" width="100" height="1520" as="geometry" />
         </mxCell>
         <mxCell id="k2i48AaEWhs89tVsRFu5-59" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="k2i48AaEWhs89tVsRFu5-50" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="1230" as="geometry" />
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k2i48AaEWhs89tVsRFu5-67" value="根据咨询人信息匹配律师&lt;br&gt;或根据咨询人要求匹配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="730" y="70" width="150" height="30" as="geometry" />
+          <mxGeometry x="830" y="70" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k2i48AaEWhs89tVsRFu5-68" value="派发订单" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.381;exitY=0.139;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.23;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="k2i48AaEWhs89tVsRFu5-62" target="k2i48AaEWhs89tVsRFu5-69" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -213,9 +213,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlYcjBnoU1A6uBopFc5--33" value="发送律师消息" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" parent="1" edge="1">
+        <mxCell id="ZlYcjBnoU1A6uBopFc5--33" value="发送律师消息" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;exitX=0.531;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.52;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="k2i48AaEWhs89tVsRFu5-50" edge="1" source="ZlYcjBnoU1A6uBopFc5--1">
           <mxGeometry x="0.0142" relative="1" as="geometry">
-            <mxPoint x="1220" y="628" as="targetPoint" />
+            <mxPoint x="1170" y="631" as="targetPoint" />
             <mxPoint x="1044" y="628" as="sourcePoint" />
             <Array as="points" />
             <mxPoint as="offset" />
